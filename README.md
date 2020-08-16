@@ -21,6 +21,8 @@
 
 
 > Ciruit diagram is in the code folder.
+Wiring is pretty simple Oled and MPU6050 connects to I2C pins and are powered by the board itself using 3v pin.
+Servo pins are 18 andd 19.
 
 # Installation
 Before uploading the code switch node32s in the boards menu. By default node mcu is not installed.

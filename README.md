@@ -1,0 +1,2 @@
+# brahmos
+3d printed Model of fastest supersonic cruise missile in the world BraHmos. The BrahMos is a medium-range ramjet supersonic cruise missile that can be launched from submarine, ships, aircraft, or land. It is the fastest supersonic cruise missile in the world.It is a joint venture between the Russian Federation's NPO Mashinostroyeniya and India's Defence Research and Development Organisation (DRDO), who together have formed BrahMos Aerospace.
